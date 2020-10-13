@@ -1,13 +1,12 @@
-#Terceira edição Next Level Week da Rockeseat
-- Trila Omnistack
+# Terceira edição Next Level Week da Rockeseat
+- Trilha Omnistack
 
-##Projeto Happy
-*Leve felicidade para o mundo, visite orfanatos e mude o dia de muitas crianças. NLW#3*
+## Projeto Happy
+plataforma que conecta voluntários e orfanatos
 ![](/src/images/landing.png)
 
-###Objetivos
--criar uma plataforma que conecta voluntários e orfanatos
 
-###Tecnologias
--ReactJS
--TypeScript
+
+### Tecnologias
+- ReactJS
+- TypeScript
